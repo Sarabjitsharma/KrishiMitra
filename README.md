@@ -66,7 +66,7 @@ Language	Python
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Krishi-Mitra.git
+git clone https://github.com/Sarabjitsharma/KrishiMitra.git
 cd Krishi-Mitra
 
 2️⃣ Create Virtual Environment
@@ -91,9 +91,9 @@ uvicorn main:app --reload
 
 🎥 Project Demo
 
-▶️ Demo Video: (Add your YouTube / Drive link here)
+▶️ Demo Video:
 
-https://youtu.be/your-demo-video
+
 
 🌱 Future Enhancements
 
